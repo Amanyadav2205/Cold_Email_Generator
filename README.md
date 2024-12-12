@@ -21,4 +21,6 @@ Before running the application, ensure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/Cold-Email-Generator.git
 2. Navigate to the project directory:
-3.  ``cd Cold-Email-Generator
+  ```bash
+  cd Cold-Email-Generator
+3. dk;fjnwd
