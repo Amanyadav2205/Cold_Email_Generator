@@ -1,4 +1,4 @@
-# Cold Email Generator
+# 📧 Cold Email Generator
 
 This is a Streamlit-based web app for generating cold emails.
 
