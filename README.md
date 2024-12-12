@@ -33,18 +33,18 @@ Before running the application, ensure you have the following installed:
 
 
 ## Usage
-Activate the virtual environment:
 
-bash
 
-source env/bin/activate  # For macOS/Linux
-env\Scripts\activate  # For Windows
-Run the Streamlit app:
+1. Activate the virtual environment:
+   ```bash
+   source env/bin/activate  # For macOS/Linux
+   env\Scripts\activate  # For Windows
 
-bash
+2. Run the Streamlit app:
+   ```bash
+      streamlit run .\app\main.py
 
-streamlit run .\app\main.py
-Open your web browser and go to http://localhost:8501/ to access the Cold Email Generator.
+3. Open your web browser and go to http://localhost:8501/ to access the Cold Email Generator.
 
 ### Features
 Enter a URL to extract job information.
