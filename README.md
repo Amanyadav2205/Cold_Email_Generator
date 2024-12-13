@@ -2,6 +2,8 @@
 
 This is a Streamlit-based web app for generating cold emails.
 
+<img width="1440" alt="Screenshot 2024-12-13 at 23 10 17" src="https://github.com/user-attachments/assets/971fc583-5379-42b7-9a11-f7cf62b465e6" />
+
 ## Features
 
 - Enter a URL to extract job information.
